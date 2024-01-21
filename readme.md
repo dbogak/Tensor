@@ -53,11 +53,9 @@
 
 1. Откройте терминал или командную строку.
 2. Перейдите в каталог проекта: `cd Tensor`.
-3. Запустите программу одну из двух программ: 
-* py noSQL\main.py
-* py Postgres\main.py
+3. Запустите программу py main.py
 
 
 ## Контакты
 
-[Дмитрий - robaticru@gmail.com, Телеграм -> [Monte Carlo](https://t.me/cashriser "")]
+[Дмитрий - robaticru@gmail.com, Телеграм -> [Monte Carlo]("https://t.me/cashriser")]
